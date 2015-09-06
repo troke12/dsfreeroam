@@ -1,0 +1,60 @@
+[modelo] [nome]: adiciona um objeto.
+[nome]: copia o objeto selecionado e coloca nele o nome.
+: deleta o objeto selecionado.
+: deseleciona o objeto.
+[multiplicador]: muda o multiplicador para mover os objetos mais lentamente ou rapidamente.
+[nome]: teleporta para o objeto com o nome encotrado e o seleciona.
+: seleciona a linguagem usada nas mensagens. Ver /olistlang para ver as outras linguagens disponiveis.
+: mostra as linguagens disponiveis.
+: seleciona o modo de edicao do objeto.
+: mostra os objetos ao redor do jogador.
+: desgruda um objeto do jogador.
+[nome]: seleciona o objeto com o nome passado.
+[distance]: stick a Objeto to a player.
+Adcionar objeto
+Grudar objeto
+Cancelar
+Copiar Objeto
+Deletar Objeto
+Selecione a categoria de Objetos
+Selecione o modelo de objeto que deseja criar
+Digite o nome do novo objeto
+Descrudar Objeto
+Ir para o Objeto
+Mover em X & Y
+Mover em Z
+Multiplicador
+Prox. Pag.
+Prox. Passo
+Nome do Objeto
+Recarregar Objetos
+Rotacionar em X & Y
+Rotacionar em Z
+Selecionar
+Ver
+Menu para adcionar objetos aberto!
+Objeto Adcionado!
+Cancelado!
+Objeto Copiado!
+Comandos
+Objeto Deletado!
+Objeto Deselecionado!
+Objeto Existente!
+AVISO: Arquivo nao encontrado ou impossivel abrir!
+Linguagens:
+Linguagem padrao
+Linguagem selecionada!
+Linguagem inválida!
+Mover habilitado!
+Mover desabilitado!
+e o novo multiplicador!
+Objeto nao selecionado!
+Novo modo de edicao selecionado!
+Objetos proximos!
+Objeto nao encontrado!
+Pag.
+Objeto desgrudado!
+Objetos salvos!
+Objeto selecionado!
+Objeto grudado!
+SINTAXE

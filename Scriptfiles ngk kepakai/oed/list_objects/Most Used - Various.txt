@@ -1,0 +1,65 @@
+1206 - vending machine <--- Use This - Crash
+1210 - briefcase
+1216 - phone booth
+1219 - palette
+1223 - lamppost
+1341 - ice cream cart
+1342 - noodle stand
+1378 - huge crane
+1384 - top part of construction crane
+1383 - crane stand 
+1543 - bottle of beer
+1562 - white jet seat
+1572 - airport trolley
+1608 - shark
+1609 - turtle
+1612 - submarine (from SF port, huge)
+1622 - security camera
+1684 - construction container
+7386 - heliport
+3092 - Tied up dead cop
+2803 - bag of meat
+2589 - carcass on a hook
+2590 - hook
+2804 - Meat
+2805 - Meat
+2806 - Meat
+16410 - grave stones
+12961 - grave stones 2 (open grave)
+12986 - well
+2896 - coffin
+2905 - leg
+2906 - arm
+2907 - torso
+2908 - head
+2976 - green gloop
+3082 - ammo capsule
+3007 - chop cop torso
+3008 - chop cop right arm
+3009 - chop cop left arm 
+3010 - chop cop right leg
+3011 - chop cop left leg
+3012 - chop cop head
+3028 - sword
+3070 - goggles
+3071 - dumb bell right
+3072 - dumb bell left
+2627 - treadmill
+2628 - bench 2
+2629 - bench 1
+2630 - bike
+3074 - painting
+3077 - blackboard
+3086 - cross off
+3085 - 60 seconds list 1
+3078 - 60 seconds list 2
+3088 - 60 seconds list 3
+3108 - base jump target
+3113 - carrier door
+3114 - carrier lift 2
+3115 - carrier lift 1
+2114 - basketball
+1318 - Arrow
+1317 - cylinder
+1316 - hoop
+1559 - diamond checkpoint thing

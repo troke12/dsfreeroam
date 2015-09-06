@@ -1,0 +1,112 @@
+[30/12/2012 | 21:32:12] (Deleted) Tele: 1
+[30/12/2012 | 21:33:31] (Created) Tele: Aso, Pos: X: -2044.510498,Y: -93.922088,Z: 35.171798,Ang:4.164523,Interior:0
+[30/12/2012 | 21:35:52] (Created) Tele: Asu, Pos: X: -2723.190185,Y: -316.763244,Z: 7.187500,Ang:45.850116,Interior:0
+[30/12/2012 | 21:38:54] (Created) Tele: Aiku, Pos: X: -1978.428222,Y: 472.978271,Z: 35.166126,Ang:88.500007,Interior:0
+[30/12/2012 | 21:41:12] (Created) Tele: Asoo, Pos: X: -1604.077270,Y: 719.774047,Z: 11.703122,Ang:278.078674,Interior:0
+[31/12/2012 | 13:18:23] (Created) Tele: Rumah VIP, Pos: X: 159.154983,Y: -104.809585,Z: 7.931072,Ang:267.053039,Interior:0
+[04/01/2013 | 18:24:43] (Created) Tele: Kantor 1, Pos: X: 238.728179,Y: 138.871765,Z: 1003.023437,Ang:338.287170,Interior:3
+[04/01/2013 | 18:25:28] (Created) Tele: Spawn, Pos: X: 238.167221,Y: 142.382202,Z: 1003.023437,Ang:3.288368,Interior:3
+[05/01/2013 | 16:19:14] (Created) Tele: Pickup 1, Pos: X: 246.583496,Y: 107.307815,Z: 1003.218750,Ang:2.769938,Interior:10
+[05/01/2013 | 16:19:21] (Deleted) Tele: Pickup 1
+[05/01/2013 | 16:19:32] (Deleted) Tele: Kantor 1
+[05/01/2013 | 16:19:36] (Deleted) Tele: Spawn
+[05/01/2013 | 16:19:52] (Created) Tele: Spawn, Pos: X: 246.389633,Y: 110.552650,Z: 1003.218750,Ang:7.944036,Interior:10
+[05/01/2013 | 16:22:16] (Created) Tele: pickup, Pos: X: -1753.853759,Y: 961.639831,Z: 24.882812,Ang:7.508173,Interior:0
+[05/01/2013 | 16:22:41] (Created) Tele: Pickup 1, Pos: X: -1754.639160,Y: 964.123535,Z: 24.890625,Ang:351.435974,Interior:0
+[05/01/2013 | 16:22:45] (Deleted) Tele: pickup
+[05/01/2013 | 16:23:11] (Created) Tele: Pickup 2, Pos: X: 246.476470,Y: 107.329185,Z: 1003.218750,Ang:181.784332,Interior:10
+[05/01/2013 | 16:26:40] (Created) Tele: Spawn 2, Pos: X: -1753.345581,Y: 957.547729,Z: 24.882812,Ang:189.097061,Interior:0
+[09/01/2013 | 18:15:48] (Created) Tele: SPAWN 1, Pos: X: -2633.456298,Y: 1369.287841,Z: 7.115996,Ang:188.613464,Interior:0
+[09/01/2013 | 18:17:10] (Created) Tele: SPAWN 2, Pos: X: -2850.152587,Y: 1027.744995,Z: 36.968971,Ang:92.262115,Interior:0
+[09/01/2013 | 18:18:46] (Created) Tele: SPAWN 3, Pos: X: -2944.454833,Y: 472.559600,Z: 4.914062,Ang:268.789611,Interior:0
+[09/01/2013 | 18:21:48] (Created) Tele: SPAWN 4, Pos: X: -2402.550781,Y: -593.887145,Z: 132.648437,Ang:123.111015,Interior:0
+[09/01/2013 | 18:23:38] (Created) Tele: SPAWN 5, Pos: X: -2232.783447,Y: -1739.367919,Z: 481.037353,Ang:49.652198,Interior:0
+[10/01/2013 | 12:54:30] (Created) Tele: SPAWN 6, Pos: X: -1813.241699,Y: 1317.641845,Z: 62.484375,Ang:181.023178,Interior:0
+[10/01/2013 | 12:55:33] (Created) Tele: SPAWN 7, Pos: X: -1505.074584,Y: 922.124023,Z: 7.187500,Ang:85.939880,Interior:0
+[10/01/2013 | 12:56:20] (Created) Tele: SPAWN 8, Pos: X: -1981.424804,Y: 882.966308,Z: 45.203125,Ang:263.285491,Interior:0
+[10/01/2013 | 13:00:29] (Created) Tele: spawn 10, Pos: X: -2707.852783,Y: 378.175170,Z: 11.979453,Ang:178.254028,Interior:0
+[18/01/2013 | 21:40:02] (Created) Tele: VIP HOUSE, Pos: X: 2596.833984,Y: 767.619445,Z: 12.184406,Ang:184.632324,Interior:0
+[27/01/2013 | 21:02:42] (Created) Tele: CAMHEIGHT, Pos: X: 2483.472167,Y: 1527.763549,Z: 11.136783,Ang:318.226348,Interior:0
+[27/01/2013 | 22:58:44] (Created) Tele: ASEAEAWEA, Pos: X: -1734.899536,Y: -580.837707,Z: 35.728515,Ang:83.626449,Interior:0
+[03/02/2013 | 15:32:56] (Created) Tele: KAMPUNG, Pos: X: 755.414367,Y: 332.615447,Z: 20.254943,Ang:193.216384,Interior:0
+[03/02/2013 | 16:09:26] (Created) Tele: PERUMAHAN, Pos: X: 1997.216796,Y: 712.234985,Z: 25.783134,Ang:281.322296,Interior:0
+[03/02/2013 | 18:40:59] (Created) Tele: ICON1, Pos: X: -1606.309082,Y: 672.061706,Z: -4.906250,Ang:181.022979,Interior:0
+[03/02/2013 | 18:42:46] (Created) Tele: ICON2, Pos: X: 288.851989,Y: 166.923919,Z: 1007.171875,Ang:167.123443,Interior:3
+[03/02/2013 | 18:44:32] (Created) Tele: ICONCIA, Pos: X: -1715.818481,Y: 1018.054138,Z: 17.917835,Ang:281.099090,Interior:0
+[03/02/2013 | 18:50:35] (Created) Tele: ICONCIA2, Pos: X: 231.062637,Y: 107.437065,Z: 1010.218750,Ang:185.662765,Interior:10
+[03/02/2013 | 19:54:56] (Created) Tele: SPAWN GETDSPD, Pos: X: 288.720489,Y: 172.198348,Z: 1007.179443,Ang:12.916464,Interior:3
+[03/02/2013 | 19:55:49] (Created) Tele: SPAWN GET2, Pos: X: -1606.648193,Y: 678.195312,Z: -5.242187,Ang:357.893005,Interior:0
+[03/02/2013 | 19:57:08] (Created) Tele: GETOUT CIA, Pos: X: -1719.626708,Y: 1018.559936,Z: 17.585937,Ang:260.114837,Interior:0
+[03/02/2013 | 19:57:59] (Created) Tele: GETIN CIA, Pos: X: 229.042617,Y: 114.233032,Z: 1010.218750,Ang:338.601928,Interior:10
+[05/02/2013 | 19:48:23] (Created) Tele: MAULANA, Pos: X: 141.989608,Y: 3022.134521,Z: 5.530700,Ang:81.450347,Interior:0
+[18/02/2013 | 18:36:33] (Created) Tele: MADCbaseLVdown, Pos: X: 2057.949462,Y: 2441.993652,Z: 10.820312,Ang:191.531829,Interior:0
+[18/02/2013 | 18:42:40] (Created) Tele: MADCbaseLVup, Pos: X: 2073.497314,Y: 2438.766845,Z: 49.522216,Ang:185.891860,Interior:0
+[18/02/2013 | 18:43:12] (Created) Tele: MADCbase, Pos: X: 2178.911376,Y: 2417.061035,Z: 73.033859,Ang:84.539375,Interior:0
+[18/02/2013 | 18:46:00] (Created) Tele: MADCPIER69, Pos: X: -1704.701660,Y: 1338.855346,Z: 7.180032,Ang:315.725463,Interior:0
+[03/07/2013 | 17:00:56] (Created) Tele: Spawnls1, Pos: X: 1954.795776,Y: -1371.868286,Z: 19.648437,Ang:90.126296,Interior:0
+[03/07/2013 | 17:01:36] (Created) Tele: Spawnls2, Pos: X: 1786.810424,Y: -1298.888427,Z: 13.375000,Ang:11.056863,Interior:0
+[03/07/2013 | 17:02:48] (Created) Tele: Spawnls3, Pos: X: 2240.143310,Y: -1078.433837,Z: 41.610656,Ang:127.735824,Interior:0
+[03/07/2013 | 17:05:13] (Created) Tele: Spawnls4, Pos: X: 1479.695678,Y: -1620.305053,Z: 14.039297,Ang:180.841171,Interior:0
+[03/07/2013 | 17:05:52] (Created) Tele: Spawnls5, Pos: X: 1722.478515,Y: -1629.355957,Z: 20.213642,Ang:3.726990,Interior:0
+[03/07/2013 | 17:07:21] (Created) Tele: Spawnls6, Pos: X: 1757.254028,Y: -1961.366943,Z: 14.117187,Ang:333.107849,Interior:0
+[03/07/2013 | 17:11:29] (Created) Tele: Spawnls7, Pos: X: 1232.031005,Y: -2037.606933,Z: 61.868083,Ang:274.482879,Interior:0
+[03/07/2013 | 17:13:49] (Created) Tele: Spawnls8, Pos: X: 380.015991,Y: -2059.030273,Z: 10.721952,Ang:6.538700,Interior:0
+[03/07/2013 | 17:14:36] (Created) Tele: Spawnls9, Pos: X: 343.018585,Y: -1795.867187,Z: 4.823723,Ang:351.715911,Interior:0
+[03/07/2013 | 17:15:39] (Created) Tele: Spawnls10, Pos: X: 405.995361,Y: -1539.071655,Z: 32.273437,Ang:224.998138,Interior:0
+[03/07/2013 | 17:27:08] (Created) Tele: PickupBank, Pos: X: 595.800048,Y: -1251.503295,Z: 18.324462,Ang:194.824645,Interior:0
+[03/07/2013 | 17:29:20] (Created) Tele: PickupVGPD, Pos: X: 1555.479614,Y: -1675.596435,Z: 16.195312,Ang:271.270904,Interior:0
+[03/07/2013 | 17:32:00] (Created) Tele: PickupFBI, Pos: X: 1797.460815,Y: -1579.018554,Z: 14.086112,Ang:90.120491,Interior:0
+[03/07/2013 | 18:08:32] (Created) Tele: bankgetout, Pos: X: 594.151428,Y: -1245.515747,Z: 18.105913,Ang:24.339626,Interior:0
+[03/07/2013 | 18:09:09] (Created) Tele: getoutvgpd, Pos: X: 1553.169921,Y: -1675.708618,Z: 16.195312,Ang:86.211784,Interior:0
+[03/07/2013 | 18:09:57] (Created) Tele: pickupvgpdgarasi, Pos: X: 1568.553588,Y: -1689.970214,Z: 6.218750,Ang:0.333964,Interior:0
+[03/07/2013 | 18:10:16] (Created) Tele: getoutvgpdgarasi, Pos: X: 1568.592773,Y: -1692.303833,Z: 5.890625,Ang:182.840911,Interior:0
+[03/07/2013 | 18:10:54] (Created) Tele: getoutfbi, Pos: X: 1799.729492,Y: -1577.203735,Z: 14.062500,Ang:300.486968,Interior:0
+[03/07/2013 | 18:12:14] (Created) Tele: pickupfbigarasi, Pos: X: 1654.043457,Y: -1654.768188,Z: 22.515625,Ang:359.057464,Interior:0
+[03/07/2013 | 18:12:44] (Created) Tele: getoutfbigarasi, Pos: X: 1654.941772,Y: -1657.989746,Z: 22.515625,Ang:182.335830,Interior:0
+[03/07/2013 | 19:17:10] (Deleted) Tele: CAMHEIGHT
+[03/07/2013 | 19:17:19] (Deleted) Tele: ASEAEAWEA
+[03/07/2013 | 19:17:24] (Deleted) Tele: KAMPUNG
+[03/07/2013 | 19:17:29] (Deleted) Tele: PERUMAHAN
+[03/07/2013 | 19:17:33] (Deleted) Tele: ICON1
+[03/07/2013 | 19:17:37] (Deleted) Tele: ICON2
+[03/07/2013 | 19:17:42] (Deleted) Tele: ICONCIA2
+[03/07/2013 | 19:17:50] (Deleted) Tele: ICONCIA
+[03/07/2013 | 19:17:58] (Deleted) Tele: SPAWN GETDSPD
+[03/07/2013 | 19:18:06] (Deleted) Tele: SPAWN GET2
+[03/07/2013 | 19:18:12] (Deleted) Tele: GETOUT CIA
+[03/07/2013 | 19:18:17] (Deleted) Tele: GETIN CIA
+[03/07/2013 | 19:18:22] (Deleted) Tele: MAULANA
+[03/07/2013 | 19:18:31] (Deleted) Tele: MADCbaseLVdown
+[03/07/2013 | 19:18:38] (Deleted) Tele: MADCbaseLVup
+[03/07/2013 | 19:18:42] (Deleted) Tele: MADCbase
+[03/07/2013 | 19:18:50] (Deleted) Tele: MADCPIER69
+[03/07/2013 | 19:18:54] (Deleted) Tele: Spawnls1
+[03/07/2013 | 19:18:57] (Deleted) Tele: Spawnls2
+[03/07/2013 | 19:19:02] (Deleted) Tele: Spawnls3
+[03/07/2013 | 19:19:06] (Deleted) Tele: Spawnls4
+[03/07/2013 | 19:19:10] (Deleted) Tele: Spawnls5
+[03/07/2013 | 19:19:16] (Deleted) Tele: Spawnls6
+[03/07/2013 | 19:19:19] (Deleted) Tele: Spawnls7
+[03/07/2013 | 19:19:22] (Deleted) Tele: Spawnls8
+[03/07/2013 | 19:19:26] (Deleted) Tele: Spawnls9
+[03/07/2013 | 19:19:30] (Deleted) Tele: Spawnls10
+[03/07/2013 | 19:19:36] (Deleted) Tele: PickupBank
+[03/07/2013 | 19:19:42] (Deleted) Tele: PickupVGPD
+[03/07/2013 | 19:19:48] (Deleted) Tele: PickupFBI
+[03/07/2013 | 19:19:52] (Deleted) Tele: bankgetout
+[03/07/2013 | 19:19:57] (Deleted) Tele: getoutvgpd
+[03/07/2013 | 19:20:13] (Deleted) Tele: pickupvgpdgarasi
+[03/07/2013 | 19:20:20] (Deleted) Tele: getoutvgpdgarasi
+[03/07/2013 | 19:20:24] (Deleted) Tele: getoutfbi
+[03/07/2013 | 19:20:36] (Deleted) Tele: pickupfbigarasi
+[03/07/2013 | 19:20:43] (Deleted) Tele: getoutfbigarasi
+[03/07/2013 | 19:21:08] (Created) Tele: vgpdout, Pos: X: 288.852569,Y: 166.923507,Z: 1007.171875,Ang:164.351013,Interior:3
+[03/07/2013 | 19:21:23] (Created) Tele: vgpdspawn, Pos: X: 288.425048,Y: 167.910034,Z: 1007.171875,Ang:2.042772,Interior:3
+[03/07/2013 | 19:22:41] (Created) Tele: fbioutpickup, Pos: X: 246.527481,Y: 107.300590,Z: 1003.218750,Ang:177.279388,Interior:10
+[03/07/2013 | 19:22:54] (Created) Tele: fbispawn, Pos: X: 246.213760,Y: 108.633934,Z: 1003.218750,Ang:0.870656,Interior:10
+[03/07/2013 | 19:24:14] (Created) Tele: getoutpickupfbigarasi, Pos: X: 227.256103,Y: 117.422431,Z: 999.028503,Ang:267.833557,Interior:10
+[03/07/2013 | 19:24:41] (Created) Tele: getintfbigarasi, Pos: X: 225.919357,Y: 117.666297,Z: 999.060485,Ang:88.918540,Interior:10
+[03/07/2013 | 19:28:57] (Created) Tele: getoutpickupgarasivgpd, Pos: X: 238.742080,Y: 138.629257,Z: 1003.023437,Ang:169.062438,Interior:3
+[03/07/2013 | 19:29:10] (Created) Tele: vgpdspawngarasi, Pos: X: 238.160507,Y: 140.227859,Z: 1003.023437,Ang:5.741668,Interior:3
+[04/07/2013 | 08:31:05] (Created) Tele: getintdspd, Pos: X: 288.906524,Y: 169.847152,Z: 1007.179443,Ang:7.660550,Interior:3
+[09/12/2013 | 13:10:38] (Created) Tele: test, Pos: X: 1546.028686,Y: -1351.663330,Z: 329.472900,Ang:97.759811,Interior:0

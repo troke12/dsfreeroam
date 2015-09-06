@@ -1,0 +1,137 @@
+6. February 2013 | 22:51:02 | Current JunkBuster configuration: 
+6. February 2013 | 22:51:02 | - WeaponHack = 0
+6. February 2013 | 22:51:02 | - MoneyHack = 0
+6. February 2013 | 22:51:02 | - Jetpack = 0
+6. February 2013 | 22:51:02 | - HealthHack = 0
+6. February 2013 | 22:51:02 | - ArmourHack = 0
+6. February 2013 | 22:51:02 | - DriveBy = 0
+6. February 2013 | 22:51:02 | - Spam = 1
+6. February 2013 | 22:51:02 | - CommandSpam = 1
+6. February 2013 | 22:51:02 | - BadWords = 1
+6. February 2013 | 22:51:02 | - CarJackHack = 0
+6. February 2013 | 22:51:02 | - TeleportHack = 0
+6. February 2013 | 22:51:02 | - MaxPing = 1000
+6. February 2013 | 22:51:02 | - SpectateHack = 0
+6. February 2013 | 22:51:02 | - Blacklist = 0
+6. February 2013 | 22:51:02 | - IpBans = 0
+6. February 2013 | 22:51:02 | - TempBans = 0
+6. February 2013 | 22:51:02 | - SpawnKill = 0
+6. February 2013 | 22:51:02 | - CapsLock = 1
+6. February 2013 | 22:51:02 | - 3DSpeed = 0
+6. February 2013 | 22:51:02 | - MaxSpeed = 2303
+6. February 2013 | 22:51:02 | - AdminImmunity = 1
+6. February 2013 | 22:51:02 | - Advertisement = 1
+6. February 2013 | 22:51:02 | - FreezeUpdate = 0
+6. February 2013 | 22:51:02 | - SpawnTime = 10
+6. February 2013 | 22:51:02 | - CheckpointTeleport = 0
+6. February 2013 | 22:51:02 | - Airbrake = 150
+6. February 2013 | 22:51:02 | - TankMode = 1
+6. February 2013 | 22:51:02 | - WarnPlayers = 0
+6. February 2013 | 22:51:02 | - SingleplayerCheats = 1
+6. February 2013 | 22:51:02 | - MinFPS = 13
+6. February 2013 | 22:51:02 | - DisableBadWeapons = 1
+6. February 2013 | 22:51:02 | - CBug = 0
+6. February 2013 | 22:51:02 | - AntiBugKill = 0
+6. February 2013 | 22:51:02 | - NoReload = 20
+6. February 2013 | 22:51:02 | - NoReloadForSawnOff = 4
+6. February 2013 | 22:51:02 | - ActiveGMC = 2
+6. February 2013 | 22:51:02 | - GMCBan = 0
+6. February 2013 | 22:51:02 | - ServerSideHealth = 0
+6. February 2013 | 22:51:02 | - CheckVMPos = 0
+6. February 2013 | 22:51:02 | - QuickTurn = 0
+6. February 2013 | 22:51:02 | - VehicleTeleport = 0
+6. February 2013 | 22:51:02 | - Wallride = 170
+6. February 2013 | 22:51:02 | - DisplayTextDraw = 1
+6. February 2013 | 22:51:02 | - AFK = 0
+6. February 2013 | 22:51:02 | - PickupTeleport = 0
+6. February 2013 | 22:51:02 | - FlyHack = 40
+6. February 2013 | 22:51:02 | - JunkBusterChrome = 0
+6. February 2013 | 22:51:02 | - CheckWalkAnims = 1
+6. February 2013 | 22:51:02 | - ReportMoneyHack = 1
+6. February 2013 | 22:51:02 | - SpeedhackAdvanced = 20
+6. February 2013 | 22:51:02 | - Joypad = 0
+6. February 2013 | 22:51:02 | - ArmedVehicles = 0
+6. February 2013 | 22:51:02 | - VehicleRepair = 2
+6. February 2013 | 22:51:02 | - TuningHack = 1
+6. February 2013 | 22:51:02 | - PayForGuns = 3
+6. February 2013 | 22:51:02 | - SpawnVehicles = 2
+6. February 2013 | 22:51:02 | - MaxTotalWarnings = 15
+6. February 2013 | 22:51:02 | - TooManyWarningsAction = 1
+6. February 2013 | 22:51:02 | 0 IP-bans have been loaded.
+6. February 2013 | 22:51:02 | 0 temporary bans have been loaded.
+6. February 2013 | 22:51:02 | 5 whitelist entries have been loaded.
+6. February 2013 | 22:51:02 | 5 blacklist entries have been loaded.
+6. February 2013 | 22:51:02 | 41 bad words have been loaded.
+6. February 2013 | 22:51:02 | 4 forbidden weapons have been loaded.
+6. February 2013 | 22:51:02 | JunkBuster has been configurated.
+6. February 2013 | 22:51:02 | JunkBuster (v10.0) has successfully been loaded.
+6. February 2013 | 22:51:40 | Current JunkBuster configuration: 
+6. February 2013 | 22:51:40 | - WeaponHack = 0
+6. February 2013 | 22:51:40 | - MoneyHack = 0
+6. February 2013 | 22:51:40 | - Jetpack = 0
+6. February 2013 | 22:51:40 | - HealthHack = 0
+6. February 2013 | 22:51:40 | - ArmourHack = 0
+6. February 2013 | 22:51:40 | - DriveBy = 0
+6. February 2013 | 22:51:40 | - Spam = 1
+6. February 2013 | 22:51:40 | - CommandSpam = 1
+6. February 2013 | 22:51:40 | - BadWords = 1
+6. February 2013 | 22:51:40 | - CarJackHack = 0
+6. February 2013 | 22:51:40 | - TeleportHack = 0
+6. February 2013 | 22:51:40 | - MaxPing = 1000
+6. February 2013 | 22:51:40 | - SpectateHack = 0
+6. February 2013 | 22:51:40 | - Blacklist = 0
+6. February 2013 | 22:51:40 | - IpBans = 0
+6. February 2013 | 22:51:40 | - TempBans = 0
+6. February 2013 | 22:51:40 | - SpawnKill = 0
+6. February 2013 | 22:51:40 | - CapsLock = 1
+6. February 2013 | 22:51:40 | - 3DSpeed = 0
+6. February 2013 | 22:51:40 | - MaxSpeed = 2303
+6. February 2013 | 22:51:40 | - AdminImmunity = 1
+6. February 2013 | 22:51:40 | - Advertisement = 1
+6. February 2013 | 22:51:40 | - FreezeUpdate = 0
+6. February 2013 | 22:51:40 | - SpawnTime = 10
+6. February 2013 | 22:51:40 | - CheckpointTeleport = 0
+6. February 2013 | 22:51:40 | - Airbrake = 150
+6. February 2013 | 22:51:40 | - TankMode = 1
+6. February 2013 | 22:51:40 | - WarnPlayers = 0
+6. February 2013 | 22:51:40 | - SingleplayerCheats = 1
+6. February 2013 | 22:51:40 | - MinFPS = 13
+6. February 2013 | 22:51:40 | - DisableBadWeapons = 1
+6. February 2013 | 22:51:40 | - CBug = 0
+6. February 2013 | 22:51:40 | - AntiBugKill = 0
+6. February 2013 | 22:51:40 | - NoReload = 20
+6. February 2013 | 22:51:40 | - NoReloadForSawnOff = 4
+6. February 2013 | 22:51:40 | - ActiveGMC = 2
+6. February 2013 | 22:51:40 | - GMCBan = 0
+6. February 2013 | 22:51:40 | - ServerSideHealth = 0
+6. February 2013 | 22:51:40 | - CheckVMPos = 0
+6. February 2013 | 22:51:40 | - QuickTurn = 0
+6. February 2013 | 22:51:40 | - VehicleTeleport = 0
+6. February 2013 | 22:51:40 | - Wallride = 170
+6. February 2013 | 22:51:40 | - DisplayTextDraw = 1
+6. February 2013 | 22:51:40 | - AFK = 0
+6. February 2013 | 22:51:40 | - PickupTeleport = 0
+6. February 2013 | 22:51:40 | - FlyHack = 40
+6. February 2013 | 22:51:40 | - JunkBusterChrome = 0
+6. February 2013 | 22:51:40 | - CheckWalkAnims = 1
+6. February 2013 | 22:51:40 | - ReportMoneyHack = 1
+6. February 2013 | 22:51:40 | - SpeedhackAdvanced = 20
+6. February 2013 | 22:51:40 | - Joypad = 0
+6. February 2013 | 22:51:40 | - ArmedVehicles = 0
+6. February 2013 | 22:51:40 | - VehicleRepair = 2
+6. February 2013 | 22:51:40 | - TuningHack = 1
+6. February 2013 | 22:51:40 | - PayForGuns = 3
+6. February 2013 | 22:51:40 | - SpawnVehicles = 2
+6. February 2013 | 22:51:40 | - MaxTotalWarnings = 15
+6. February 2013 | 22:51:40 | - TooManyWarningsAction = 1
+6. February 2013 | 22:51:40 | 0 IP-bans have been loaded.
+6. February 2013 | 22:51:40 | 0 temporary bans have been loaded.
+6. February 2013 | 22:51:40 | 5 whitelist entries have been loaded.
+6. February 2013 | 22:51:40 | 5 blacklist entries have been loaded.
+6. February 2013 | 22:51:40 | 41 bad words have been loaded.
+6. February 2013 | 22:51:40 | 4 forbidden weapons have been loaded.
+6. February 2013 | 22:51:40 | JunkBuster has been configurated.
+6. February 2013 | 22:51:40 | JunkBuster (v10.0) has successfully been loaded.
+6. February 2013 | 22:53:47 | Yudhia (180.254.90.80) has been kicked for Tuning hack.
+6. February 2013 | 22:54:35 | [DSI]Troke[IDC] (103.10.67.174) has been banned for Cheats detected.
+6. February 2013 | 22:54:49 | Yudhia (180.254.90.80) has been banned for Cheats detected.

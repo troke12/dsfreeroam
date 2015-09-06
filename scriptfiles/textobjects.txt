@@ -1,0 +1,5 @@
+new merry = CreateObject(19353, 1364.5655, -1450.3615, 29.0068, 0.0000, 0.0000, 172.9533);
+SetObjectMaterialText(merry, "Merry Christmas!", 0, 130, "Century Gothic", 79, 1, -256, 0, 1);
+
+new anjing = CreateObject(3352, 1387.0310, -1436.8900, 14.3106, 0.0000, 0.0000, 179.9067);
+SetObjectMaterialText(anjing, "Merry Christmas!", 0, 130, "Century Ghotic", 72, 0, -32256, -16777216, 1);

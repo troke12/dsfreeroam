@@ -1,0 +1,10 @@
+Name=Troke
+For_Sell=0
+Sell_Price=120000
+Rent_Price=1000
+House_Level=3
+Exit_Coord:X=2513.385253
+Exit_Coord:Y=-1690.369262
+Exit_Coord:Z=13.536511
+VirtualWorld=1
+Status=0

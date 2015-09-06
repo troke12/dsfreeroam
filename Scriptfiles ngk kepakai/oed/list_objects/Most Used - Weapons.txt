@@ -1,0 +1,53 @@
+321 - Regular Dildo
+322 - White Dildo
+323 - Vibrator
+324 - Another Vibrator
+325 - Flowers
+326 - Cane
+327 - A box of some kind  <--- No Effect
+328 - A large box of some kind <--- No Effect
+329 - Removed/Non Existent. <--- DO NOT USE
+330 - CJ's Phone
+331 - Brass Knuckles
+332 - Old VC Screwdriver - Removed. <--- DO NOT USE
+333 - Golf Club
+334 - Police Truncheon/Night Stick
+335 - Combat Knife
+336 - Baseball Bat
+337 - Shovel
+338 - Pool Cue
+339 - Katana
+340 - Skateboard - Removed. <--- DO NOT USE
+341 - Chainsaw
+342 - Frag Grenade
+343 - Tear Gas Grenade
+344 - Molotov Cocktail
+345 - Vehicle Missile Launcher <--- Use with caution, very crash prone!
+346 - Colt 45 Pistol
+347 - Silenced Pistol
+348 - Desert Eagle
+349 - Regular Shotgun
+350 - Sawn-Off Shotgun
+351 - Combat Shotgun
+352 - Micro Uzi
+353 - MP5
+354 - Hydra Flare
+355 - AK47 Assault Rifle
+356 - M4 Assault Rifle
+357 - Country Rifle?
+358 - Sniper Rifle
+359 - Rocket Launcher
+360 - Heat Seeking Rocket Launcher
+361 - Flamethrower
+362 - Minigun
+363 - Satchel Charges
+364 - Detonator <---- Seemingly Useless.
+365 - Spray Paint Can
+366 - Fire Extinguisher
+367 - Camera
+368 - Night Vision Goggles
+369 - Infra-Red Goggles
+370 - Jet pack
+371 - Parachute
+372 - Tec-9
+373 - Armour model used in Ammunition (No Effect)

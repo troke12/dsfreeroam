@@ -1,0 +1,2 @@
+// Dynamic 3dLabels Format = Description, X, Y, Z
+Los Santos Police Departement,1552.77,-1675.62,16.19

@@ -1,0 +1,1 @@
+// Dynamic Pickups Format = X, Y, Z, Type, Spawn Type

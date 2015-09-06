@@ -1,0 +1,24 @@
+//Top
+
+new bool: isRelogging[MAX_PLAYERS], relogPlayerIP[MAX_PLAYERS][17];
+
+//OnPlayerDisconnect
+    if(isRelogging[playerid])
+    {
+        new string[30];
+        isRelogging[playerid] = false;
+        format(string, sizeof(string), "unbanip %s", relogPlayerIP[playerid]);
+        SendRconCommand(string);
+    }
+
+//Onplayercommandtext
+    if(!strcmp(cmdtext, "/relog", true))
+    {
+        new string[30];
+        isRelogging[playerid] = true;
+        GetPlayerIp(playerid, relogPlayerIP[playerid], 17);
+        format(string, sizeof(string), "banip %s", relogPlayerIP[playerid]);
+        SendRconCommand(string);
+        SendClientMessage(playerid, -1, "Reconnecting...");
+        return 1;
+    }

@@ -1,0 +1,60 @@
+[modelid] [name]: add a object.
+[name]: copy a object.
+: delete a selected object.
+: deselect a object seleceted.
+[factor]: change factor of a move object.
+[Objectname]: goto to a object by name.
+: select a language of messages. See /olistlang for get the id number.
+: show the implemented laguages.
+: select mode of a edit object.
+: show a next's object arround.
+: destick a object to a player.
+[Objectname]: select object by name.
+[distance]: stick a object to a player.
+Add object
+Attach object
+Cancel
+Copy Object
+Delete Object
+Select the category of objects to view
+Select the modelid of object to create
+Put the new object name
+Deatach Object
+Goto Object
+Move on X & Y
+Move on Z
+Multipler Move
+Next Page
+Next
+Object Name
+Reload All
+Rotate on X & Y
+Rotate on Z
+Select
+View
+Menu for add objects are open!
+Object Added!
+Canceled!
+Object Copyed!
+Commands
+Object Deleted!
+Object Deselected!
+Object Exists!
+WARNING: File not found or can't open!
+Languages:
+Laguange default
+Language selected!
+Language invalid!
+Move enable!
+Move disable!
+is the new multipler!
+Object not selected!
+New edit-mode set!
+Objects nearest!
+Object not found!
+Page
+Object relesed!
+Objects saved!
+Object selected!
+Object stricked!
+SYNTAX

@@ -1,0 +1,51 @@
+4516 - roadblock
+4524 - big roadblock
+4527 - small roadblock
+1459 - breakable small roadblock - police swat thing
+1422 - unbreakable small roadblock
+13667 - monkey man!
+13666 - loop big
+13629 - TV screen
+1593 - stinger
+8493 - Pirate Ship from LV
+6976 - Staircase
+1608 - A Shark!
+13592 - The loop from interior stunt stadium
+9900 - big skyscraper SF
+1600 - fishes
+1601 - fishes
+1602 - fishes
+1603 - fishes
+1604 - fishes
+1605 - fishes
+1607 - fishes
+1608 - fishes
+1609 - fishes
+1598 - ball xD
+9455 - very big land
+11490 - torrenos ranch
+3556 - small blue house
+3557 - small purple house
+3590 - small house
+3608 - big rich house
+3609 - big house
+3608 - big house
+3619 - villa
+3607 - villa
+1431 - 5 wood boxes
+1432 - round table with 3 redchairs
+1433 - bar table
+1427 - road fold-out thing with light
+1378 - huge crane (port)
+1384 - top part of construction crane
+1383 - crane stand (the tower)
+3872 - floodlight beams
+1655 - jump
+14866 - bed
+3461 - torch (gives flames)
+3243 - teepee
+3279 - area51 tower
+1596 - satellite small
+1278 - stadium light
+1271 - crate
+2780 - smoke machine

@@ -1,0 +1,23 @@
+{
+	"items":[
+		{
+			"name":"Draco4",
+			"id":"p4",
+			"text":"120 Health! Cheater!!",
+			"icon":31,
+			"pos":{
+				"x":2514,
+				"y":1692
+			}
+		},
+		{
+			"name":"Draco4",
+			"id":"p3",
+			"text":"120 Health! Cheater!!",
+			"icon":31,
+			"pos":{
+				"x":-2514,
+				"y":1692
+			}
+		}
+}

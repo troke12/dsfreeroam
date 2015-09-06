@@ -1,0 +1,56 @@
+2918 - Mine
+1433 - Table
+1484 - Beer Botlle
+1486 - Other Beer Bottle
+1518 - Television
+1655 - Ramp
+1765 - Chair
+1766 - Couch
+1211 - Fire Hydrant
+1209 - Vending Machine
+1227 - Save Disk
+1222 - Barrel (Non Explosive)
+1225 - Barrel (Shoot it to make it explode)
+1340 - Chili Dogs Stand
+2222 - Donuts
+2985 - Mounted Machine Gun
+2964 - Pool Table
+3267 - Bomber (Area 69)
+3279 - Area 51 lookout Tower
+3761 - Shelfs
+4563 - Sky Scraper
+8493 - Ship in Las Venturas
+9900 - Star tower
+13592 - Loop the loop
+13594 - Ring
+5482 - Roads!
+5483 - Roads!
+5484 - Roads!
+5485 - Roads!
+5486 - Roads!
+5487 - Roads!
+5488 - Roads!
+5489 - Roads!
+5490 - Roads!
+5491 - Roads!
+5492 - Roads!
+5493 - Roads!
+5494 - Roads!
+5495 - Roads!
+5496 - Roads!
+5497 - Roads!
+5498 - Roads!
+5499 - Roads!
+5500 - Roads!
+5501 - Roads!
+5502 - Roads!
+5503 - Roads!
+5504 - Roads!
+5505 - Roads!
+5506 - Roads!
+5507 - Roads!
+5508 - Roads!
+5509 - Roads!
+5510 - Roads!
+5511 - Roads!
+5512 - Roads!

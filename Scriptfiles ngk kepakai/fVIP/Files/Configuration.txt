@@ -1,0 +1,3 @@
+MoneyForJoin=2500
+ScoreForJoin=3
+MaxVipLevel=4

@@ -1,0 +1,153 @@
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname
+PING :208E2E8E
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG TROKESERVER :VERSION
+:irc.uk.mibbit.net 001 TROKESERVER :Welcome to the Mibbit IRC Network TROKESERVER!krisna@subs08-103-10-67-162.three.co.id
+:irc.uk.mibbit.net 002 TROKESERVER :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 TROKESERVER :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 TROKESERVER irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 TROKESERVER CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 TROKESERVER :There are 16 users and 2419 invisible on 4 servers
+:irc.uk.mibbit.net 252 TROKESERVER 16 :operator(s) online
+:irc.uk.mibbit.net 253 TROKESERVER 3 :unknown connection(s)
+:irc.uk.mibbit.net 254 TROKESERVER 1197 :channels formed
+:irc.uk.mibbit.net 255 TROKESERVER :I have 1028 clients and 1 servers
+:irc.uk.mibbit.net 265 TROKESERVER :Current Local Users: 1028  Max: 3798
+:irc.uk.mibbit.net 266 TROKESERVER :Current Global Users: 2435  Max: 7088
+:irc.uk.mibbit.net 375 TROKESERVER :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 TROKESERVER :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 TROKESERVER :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 TROKESERVER :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 TROKESERVER :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 TROKESERVER :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 TROKESERVER :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 TROKESERVER :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 TROKESERVER :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 TROKESERVER :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 TROKESERVER :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 TROKESERVER :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 TROKESERVER :- --axod
+:irc.uk.mibbit.net 376 TROKESERVER :End of /MOTD command.
+:TROKESERVER MODE TROKESERVER :+iwx
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+:TROKESERVER!krisna@mib-87D077B3.three.co.id JOIN :#vgi
+:irc.uk.mibbit.net 353 TROKESERVER = #vgi :TROKESERVER mib_579xp0 ~krisna 
+:irc.uk.mibbit.net 366 TROKESERVER #vgi :End of /NAMES list.
+:irc.uk.mibbit.net 432  ADMIN.Maho :Erroneous Nickname: Illegal characters
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :1A453165
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG TROKESERVER :VERSION
+:irc.uk.mibbit.net 001 TROKESERVER :Welcome to the Mibbit IRC Network TROKESERVER!krisna@subs08-103-10-67-162.three.co.id
+:irc.uk.mibbit.net 002 TROKESERVER :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 TROKESERVER :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 TROKESERVER irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 TROKESERVER CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 TROKESERVER :There are 17 users and 2423 invisible on 4 servers
+:irc.uk.mibbit.net 252 TROKESERVER 16 :operator(s) online
+:irc.uk.mibbit.net 253 TROKESERVER 3 :unknown connection(s)
+:irc.uk.mibbit.net 254 TROKESERVER 1194 :channels formed
+:irc.uk.mibbit.net 255 TROKESERVER :I have 1032 clients and 1 servers
+:irc.uk.mibbit.net 265 TROKESERVER :Current Local Users: 1032  Max: 3798
+:irc.uk.mibbit.net 266 TROKESERVER :Current Global Users: 2440  Max: 7088
+:irc.uk.mibbit.net 375 TROKESERVER :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 TROKESERVER :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 TROKESERVER :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 TROKESERVER :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 TROKESERVER :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 TROKESERVER :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 TROKESERVER :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 TROKESERVER :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 TROKESERVER :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 TROKESERVER :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 TROKESERVER :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 TROKESERVER :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 TROKESERVER :- --axod
+:irc.uk.mibbit.net 376 TROKESERVER :End of /MOTD command.
+:TROKESERVER MODE TROKESERVER :+iwx
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+:irc.uk.mibbit.net 432  ADMIN.Maho :Erroneous Nickname: Illegal characters
+:TROKESERVER!krisna@mib-87D077B3.three.co.id JOIN :#vgi
+:irc.uk.mibbit.net 353 TROKESERVER = #vgi :TROKESERVER mib_579xp0 ~krisna 
+:irc.uk.mibbit.net 366 TROKESERVER #vgi :End of /NAMES list.
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+:irc.uk.mibbit.net 432  ADMIN.Maho :Erroneous Nickname: Illegal characters
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :70E3C0B2
+:IRC!IRC@irc.uk.mibbit.net PRIVMSG TROKESERVER :VERSION
+:irc.uk.mibbit.net 001 TROKESERVER :Welcome to the Mibbit IRC Network TROKESERVER!krisna@subs08-103-10-67-162.three.co.id
+:irc.uk.mibbit.net 002 TROKESERVER :Your host is irc.uk.mibbit.net, running version Unreal3.2.8.1
+:irc.uk.mibbit.net 003 TROKESERVER :This server was created Thu May 5 2011 at 13:33:10 UTC
+:irc.uk.mibbit.net 004 TROKESERVER irc.uk.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.uk.mibbit.net 005 TROKESERVER CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.uk.mibbit.net 005 TROKESERVER STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.uk.mibbit.net 251 TROKESERVER :There are 16 users and 2428 invisible on 4 servers
+:irc.uk.mibbit.net 252 TROKESERVER 16 :operator(s) online
+:irc.uk.mibbit.net 253 TROKESERVER 4 :unknown connection(s)
+:irc.uk.mibbit.net 254 TROKESERVER 1195 :channels formed
+:irc.uk.mibbit.net 255 TROKESERVER :I have 1035 clients and 1 servers
+:irc.uk.mibbit.net 265 TROKESERVER :Current Local Users: 1035  Max: 3798
+:irc.uk.mibbit.net 266 TROKESERVER :Current Global Users: 2444  Max: 7088
+:irc.uk.mibbit.net 375 TROKESERVER :- irc.uk.mibbit.net Message of the Day - 
+:irc.uk.mibbit.net 372 TROKESERVER :- 21/8/2011 12:50
+:irc.uk.mibbit.net 372 TROKESERVER :- Welcome to irc.mibbit.net
+:irc.uk.mibbit.net 372 TROKESERVER :-  _                      _ _     _     _ _                _   
+:irc.uk.mibbit.net 372 TROKESERVER :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.uk.mibbit.net 372 TROKESERVER :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.uk.mibbit.net 372 TROKESERVER :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- This server is for individuals 13 years or older. Channels that
+:irc.uk.mibbit.net 372 TROKESERVER :- place themselves on Mibbit to issue and supply illegal items,
+:irc.uk.mibbit.net 372 TROKESERVER :- such as File Downloads, Music Tracks or other operations deemed
+:irc.uk.mibbit.net 372 TROKESERVER :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.uk.mibbit.net 372 TROKESERVER :- Service Providers, and/or authorities.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Please be friendly and watch your language in public channels.
+:irc.uk.mibbit.net 372 TROKESERVER :- Do not impersonate other users, abuse will not be tolerated.
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.uk.mibbit.net 372 TROKESERVER :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.uk.mibbit.net 372 TROKESERVER :- 
+:irc.uk.mibbit.net 372 TROKESERVER :- Enjoy your stay :)
+:irc.uk.mibbit.net 372 TROKESERVER :- --axod
+:irc.uk.mibbit.net 376 TROKESERVER :End of /MOTD command.
+:TROKESERVER MODE TROKESERVER :+iwx
+:TROKESERVER!krisna@mib-87D077B3.three.co.id JOIN :#vgi
+:irc.uk.mibbit.net 353 TROKESERVER = #vgi :TROKESERVER mib_579xp0 ~krisna 
+:irc.uk.mibbit.net 366 TROKESERVER #vgi :End of /NAMES list.
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+:irc.uk.mibbit.net 432  ADMIN.Maho :Erroneous Nickname: Illegal characters
+:irc.uk.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.uk.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+:irc.uk.mibbit.net 432  ADMIN.Maho :Erroneous Nickname: Illegal characters

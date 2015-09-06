@@ -1,0 +1,10 @@
+Name=None
+For_Sell=1
+Sell_Price=25000
+Rent_Price=1000
+House_Level=1
+Exit_Coord:X=2151.039062
+Exit_Coord:Y=-1815.227539
+Exit_Coord:Z=13.549903
+VirtualWorld=28
+Status=0

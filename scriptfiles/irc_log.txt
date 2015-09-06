@@ -1,0 +1,222 @@
+:irc.va.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.va.us.mibbit.net NOTICE AUTH :*** Found your hostname
+PING :6FF59957
+:IRC!IRC@irc.va.us.mibbit.net PRIVMSG Krisna :VERSION
+:irc.va.us.mibbit.net 001 Krisna :Welcome to the Mibbit IRC Network Krisna!Bot1@subs12-223-255-228-85.three.co.id
+:irc.va.us.mibbit.net 002 Krisna :Your host is irc.va.us.mibbit.net, running version Unreal3.2.8.1
+:irc.va.us.mibbit.net 003 Krisna :This server was created Sun Apr 17 2011 at 21:22:10 UTC
+:irc.va.us.mibbit.net 004 Krisna irc.va.us.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.va.us.mibbit.net 005 Krisna CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.va.us.mibbit.net 005 Krisna MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.va.us.mibbit.net 005 Krisna STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.va.us.mibbit.net 251 Krisna :There are 19 users and 2517 invisible on 4 servers
+:irc.va.us.mibbit.net 252 Krisna 15 :operator(s) online
+:irc.va.us.mibbit.net 253 Krisna 2 :unknown connection(s)
+:irc.va.us.mibbit.net 254 Krisna 1150 :channels formed
+:irc.va.us.mibbit.net 255 Krisna :I have 1651 clients and 1 servers
+:irc.va.us.mibbit.net 265 Krisna :Current Local Users: 1651  Max: 4102
+:irc.va.us.mibbit.net 266 Krisna :Current Global Users: 2536  Max: 7088
+:irc.va.us.mibbit.net 375 Krisna :- irc.va.us.mibbit.net Message of the Day - 
+:irc.va.us.mibbit.net 372 Krisna :- 21/8/2011 12:50
+:irc.va.us.mibbit.net 372 Krisna :- Welcome to irc.mibbit.net
+:irc.va.us.mibbit.net 372 Krisna :-  _                      _ _     _     _ _                _   
+:irc.va.us.mibbit.net 372 Krisna :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.va.us.mibbit.net 372 Krisna :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.va.us.mibbit.net 372 Krisna :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.va.us.mibbit.net 372 Krisna :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- This server is for individuals 13 years or older. Channels that
+:irc.va.us.mibbit.net 372 Krisna :- place themselves on Mibbit to issue and supply illegal items,
+:irc.va.us.mibbit.net 372 Krisna :- such as File Downloads, Music Tracks or other operations deemed
+:irc.va.us.mibbit.net 372 Krisna :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.va.us.mibbit.net 372 Krisna :- Service Providers, and/or authorities.
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Please be friendly and watch your language in public channels.
+:irc.va.us.mibbit.net 372 Krisna :- Do not impersonate other users, abuse will not be tolerated.
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.va.us.mibbit.net 372 Krisna :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Enjoy your stay :)
+:irc.va.us.mibbit.net 372 Krisna :- --axod
+:irc.va.us.mibbit.net 376 Krisna :End of /MOTD command.
+:Krisna MODE Krisna :+iwx
+:Krisna!Bot1@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:irc.va.us.mibbit.net 332 Krisna #serverkrisna :
+:irc.va.us.mibbit.net 333 Krisna #serverkrisna ChanServ 1398423750
+:irc.va.us.mibbit.net 353 Krisna = #serverkrisna :Krisna Troke 
+:irc.va.us.mibbit.net 366 Krisna #serverkrisna :End of /NAMES list.
+:Krisna!Bot1@mib-415C45E0.three.co.id JOIN :#maho
+:irc.va.us.mibbit.net MODE #maho +nt 
+:irc.va.us.mibbit.net 353 Krisna = #maho :@Krisna 
+:irc.va.us.mibbit.net 366 Krisna #maho :End of /NAMES list.
+:NickServ!services@mibbit.net NOTICE Krisna :Your nick isn't registered.
+:irc.va.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.va.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :EB5BC199
+:IRC!IRC@irc.va.us.mibbit.net PRIVMSG Pradnya :VERSION
+:irc.va.us.mibbit.net 001 Pradnya :Welcome to the Mibbit IRC Network Pradnya!Bot2@subs12-223-255-228-85.three.co.id
+:irc.va.us.mibbit.net 002 Pradnya :Your host is irc.va.us.mibbit.net, running version Unreal3.2.8.1
+:irc.va.us.mibbit.net 003 Pradnya :This server was created Sun Apr 17 2011 at 21:22:10 UTC
+:irc.va.us.mibbit.net 004 Pradnya irc.va.us.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.va.us.mibbit.net 005 Pradnya CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.va.us.mibbit.net 005 Pradnya MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.va.us.mibbit.net 005 Pradnya STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.va.us.mibbit.net 251 Pradnya :There are 18 users and 2517 invisible on 4 servers
+:irc.va.us.mibbit.net 252 Pradnya 15 :operator(s) online
+:irc.va.us.mibbit.net 253 Pradnya 2 :unknown connection(s)
+:irc.va.us.mibbit.net 254 Pradnya 1150 :channels formed
+:irc.va.us.mibbit.net 255 Pradnya :I have 1649 clients and 1 servers
+:irc.va.us.mibbit.net 265 Pradnya :Current Local Users: 1649  Max: 4102
+:irc.va.us.mibbit.net 266 Pradnya :Current Global Users: 2535  Max: 7088
+:irc.va.us.mibbit.net 375 Pradnya :- irc.va.us.mibbit.net Message of the Day - 
+:irc.va.us.mibbit.net 372 Pradnya :- 21/8/2011 12:50
+:irc.va.us.mibbit.net 372 Pradnya :- Welcome to irc.mibbit.net
+:irc.va.us.mibbit.net 372 Pradnya :-  _                      _ _     _     _ _                _   
+:irc.va.us.mibbit.net 372 Pradnya :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.va.us.mibbit.net 372 Pradnya :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.va.us.mibbit.net 372 Pradnya :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.va.us.mibbit.net 372 Pradnya :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- This server is for individuals 13 years or older. Channels that
+:irc.va.us.mibbit.net 372 Pradnya :- place themselves on Mibbit to issue and supply illegal items,
+:irc.va.us.mibbit.net 372 Pradnya :- such as File Downloads, Music Tracks or other operations deemed
+:irc.va.us.mibbit.net 372 Pradnya :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.va.us.mibbit.net 372 Pradnya :- Service Providers, and/or authorities.
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Please be friendly and watch your language in public channels.
+:irc.va.us.mibbit.net 372 Pradnya :- Do not impersonate other users, abuse will not be tolerated.
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.va.us.mibbit.net 372 Pradnya :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Enjoy your stay :)
+:irc.va.us.mibbit.net 372 Pradnya :- --axod
+:irc.va.us.mibbit.net 376 Pradnya :End of /MOTD command.
+:Pradnya MODE Pradnya :+iwx
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:irc.va.us.mibbit.net 332 Pradnya #serverkrisna :
+:irc.va.us.mibbit.net 333 Pradnya #serverkrisna ChanServ 1398423750
+:irc.va.us.mibbit.net 353 Pradnya = #serverkrisna :Pradnya Krisna Troke 
+:irc.va.us.mibbit.net 366 Pradnya #serverkrisna :End of /NAMES list.
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#maho
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#maho
+:irc.va.us.mibbit.net 353 Pradnya = #maho :Pradnya @Krisna 
+:irc.va.us.mibbit.net 366 Pradnya #maho :End of /NAMES list.
+:NickServ!services@mibbit.net NOTICE Pradnya :Your nick isn't registered.
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :hal
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :hal
+PING :irc.va.us.mibbit.net
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :!say halo
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :!say halo
+PING :irc.va.us.mibbit.net
+:irc.va.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.va.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :30AA1245
+:IRC!IRC@irc.va.us.mibbit.net PRIVMSG Krisna :VERSION
+:irc.va.us.mibbit.net 001 Krisna :Welcome to the Mibbit IRC Network Krisna!Bot1@subs12-223-255-228-85.three.co.id
+:irc.va.us.mibbit.net 002 Krisna :Your host is irc.va.us.mibbit.net, running version Unreal3.2.8.1
+:irc.va.us.mibbit.net 003 Krisna :This server was created Sun Apr 17 2011 at 21:22:10 UTC
+:irc.va.us.mibbit.net 004 Krisna irc.va.us.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.va.us.mibbit.net 005 Krisna CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.va.us.mibbit.net 005 Krisna MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.va.us.mibbit.net 005 Krisna STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.va.us.mibbit.net 251 Krisna :There are 18 users and 2500 invisible on 4 servers
+:irc.va.us.mibbit.net 252 Krisna 15 :operator(s) online
+:irc.va.us.mibbit.net 254 Krisna 1150 :channels formed
+:irc.va.us.mibbit.net 255 Krisna :I have 1632 clients and 1 servers
+:irc.va.us.mibbit.net 265 Krisna :Current Local Users: 1632  Max: 4102
+:irc.va.us.mibbit.net 266 Krisna :Current Global Users: 2518  Max: 7088
+:irc.va.us.mibbit.net 375 Krisna :- irc.va.us.mibbit.net Message of the Day - 
+:irc.va.us.mibbit.net 372 Krisna :- 21/8/2011 12:50
+:irc.va.us.mibbit.net 372 Krisna :- Welcome to irc.mibbit.net
+:irc.va.us.mibbit.net 372 Krisna :-  _                      _ _     _     _ _                _   
+:irc.va.us.mibbit.net 372 Krisna :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.va.us.mibbit.net 372 Krisna :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.va.us.mibbit.net 372 Krisna :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.va.us.mibbit.net 372 Krisna :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- This server is for individuals 13 years or older. Channels that
+:irc.va.us.mibbit.net 372 Krisna :- place themselves on Mibbit to issue and supply illegal items,
+:irc.va.us.mibbit.net 372 Krisna :- such as File Downloads, Music Tracks or other operations deemed
+:irc.va.us.mibbit.net 372 Krisna :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.va.us.mibbit.net 372 Krisna :- Service Providers, and/or authorities.
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Please be friendly and watch your language in public channels.
+:irc.va.us.mibbit.net 372 Krisna :- Do not impersonate other users, abuse will not be tolerated.
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.va.us.mibbit.net 372 Krisna :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.va.us.mibbit.net 372 Krisna :- 
+:irc.va.us.mibbit.net 372 Krisna :- Enjoy your stay :)
+:irc.va.us.mibbit.net 372 Krisna :- --axod
+:irc.va.us.mibbit.net 376 Krisna :End of /MOTD command.
+:Krisna MODE Krisna :+iwx
+:Krisna!Bot1@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:irc.va.us.mibbit.net 332 Krisna #serverkrisna :
+:irc.va.us.mibbit.net 333 Krisna #serverkrisna ChanServ 1398423750
+:irc.va.us.mibbit.net 353 Krisna = #serverkrisna :Krisna Troke 
+:irc.va.us.mibbit.net 366 Krisna #serverkrisna :End of /NAMES list.
+:Krisna!Bot1@mib-415C45E0.three.co.id JOIN :#maho
+:irc.va.us.mibbit.net MODE #maho +nt 
+:irc.va.us.mibbit.net 353 Krisna = #maho :@Krisna 
+:irc.va.us.mibbit.net 366 Krisna #maho :End of /NAMES list.
+:NickServ!services@mibbit.net NOTICE Krisna :Your nick isn't registered.
+:irc.va.us.mibbit.net NOTICE AUTH :*** Looking up your hostname...
+:irc.va.us.mibbit.net NOTICE AUTH :*** Found your hostname (cached)
+PING :CCE42EE0
+:IRC!IRC@irc.va.us.mibbit.net PRIVMSG Pradnya :VERSION
+:irc.va.us.mibbit.net 001 Pradnya :Welcome to the Mibbit IRC Network Pradnya!Bot2@subs12-223-255-228-85.three.co.id
+:irc.va.us.mibbit.net 002 Pradnya :Your host is irc.va.us.mibbit.net, running version Unreal3.2.8.1
+:irc.va.us.mibbit.net 003 Pradnya :This server was created Sun Apr 17 2011 at 21:22:10 UTC
+:irc.va.us.mibbit.net 004 Pradnya irc.va.us.mibbit.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+:irc.va.us.mibbit.net 005 Pradnya CMDS=KNOCK,MAP,DCCALLOW,USERIP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+:irc.va.us.mibbit.net 005 Pradnya MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT :are supported by this server
+:irc.va.us.mibbit.net 005 Pradnya STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.va.us.mibbit.net 251 Pradnya :There are 18 users and 2501 invisible on 4 servers
+:irc.va.us.mibbit.net 252 Pradnya 15 :operator(s) online
+:irc.va.us.mibbit.net 253 Pradnya 1 :unknown connection(s)
+:irc.va.us.mibbit.net 254 Pradnya 1152 :channels formed
+:irc.va.us.mibbit.net 255 Pradnya :I have 1632 clients and 1 servers
+:irc.va.us.mibbit.net 265 Pradnya :Current Local Users: 1632  Max: 4102
+:irc.va.us.mibbit.net 266 Pradnya :Current Global Users: 2519  Max: 7088
+:irc.va.us.mibbit.net 375 Pradnya :- irc.va.us.mibbit.net Message of the Day - 
+:irc.va.us.mibbit.net 372 Pradnya :- 21/8/2011 12:50
+:irc.va.us.mibbit.net 372 Pradnya :- Welcome to irc.mibbit.net
+:irc.va.us.mibbit.net 372 Pradnya :-  _                      _ _     _     _ _                _   
+:irc.va.us.mibbit.net 372 Pradnya :- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_ 
+:irc.va.us.mibbit.net 372 Pradnya :- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+:irc.va.us.mibbit.net 372 Pradnya :- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_ 
+:irc.va.us.mibbit.net 372 Pradnya :- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- This server is for individuals 13 years or older. Channels that
+:irc.va.us.mibbit.net 372 Pradnya :- place themselves on Mibbit to issue and supply illegal items,
+:irc.va.us.mibbit.net 372 Pradnya :- such as File Downloads, Music Tracks or other operations deemed
+:irc.va.us.mibbit.net 372 Pradnya :- Illegal will be removed, and/or reported to the relevant Internet
+:irc.va.us.mibbit.net 372 Pradnya :- Service Providers, and/or authorities.
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Please be friendly and watch your language in public channels.
+:irc.va.us.mibbit.net 372 Pradnya :- Do not impersonate other users, abuse will not be tolerated.
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+:irc.va.us.mibbit.net 372 Pradnya :-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+:irc.va.us.mibbit.net 372 Pradnya :- 
+:irc.va.us.mibbit.net 372 Pradnya :- Enjoy your stay :)
+:irc.va.us.mibbit.net 372 Pradnya :- --axod
+:irc.va.us.mibbit.net 376 Pradnya :End of /MOTD command.
+:Pradnya MODE Pradnya :+iwx
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#serverkrisna
+:irc.va.us.mibbit.net 332 Pradnya #serverkrisna :
+:irc.va.us.mibbit.net 333 Pradnya #serverkrisna ChanServ 1398423750
+:irc.va.us.mibbit.net 353 Pradnya = #serverkrisna :Pradnya Krisna Troke 
+:irc.va.us.mibbit.net 366 Pradnya #serverkrisna :End of /NAMES list.
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#maho
+:irc.va.us.mibbit.net 353 Pradnya = #maho :Pradnya @Krisna 
+:irc.va.us.mibbit.net 366 Pradnya #maho :End of /NAMES list.
+:NickServ!services@mibbit.net NOTICE Pradnya :Your nick isn't registered.
+:Pradnya!Bot2@mib-415C45E0.three.co.id JOIN :#maho
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :!say halo
+:Troke!Mibbit@mib-415C45E0.three.co.id PRIVMSG #serverkrisna :!say halo
+PING :irc.va.us.mibbit.net
