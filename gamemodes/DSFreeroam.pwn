@@ -13825,9 +13825,9 @@ public OnPlayerCommandText(playerid, cmdtext[])
 				strcat( BigString15, "{00C0FF}Teleport{FFFFFF}\t\t\n\n\n");
 				strcat( BigString15, "/drift1-53 ~ /driveschool ~ /driftcircle ~ /tuning ~ /lva ~ /lsa ~ /sfa ~ /loco ~ /arch\n" );
 				strcat( BigString15, "/parkour1 ~ /parkour2 ~ /parkour3 ~ /parkour4 ~ /cs2 ~ /cs1 ~ /ss1 ~ /bs2 ~ /bombshop\n\n");
-				strcat( BigString15, "{00C0FF}Groups Commands{FFFFFF}\t\t\n\n\n");
+				/*strcat( BigString15, "{00C0FF}Groups Commands{FFFFFF}\t\t\n\n\n");
 				strcat( BigString15, "/grc(creategroup) ~ /grl(leavegroup) ~ /gri(invitetogroup) ~ /grlead(giveleader) ~ /grj(joingroup)\n");
-				strcat( BigString15, "/grk(kickmember) ~ /gm(chattogroup) ~ /grouplist(listgroup) ~ /groups(listallgroups)\n\n");
+				strcat( BigString15, "/grk(kickmember) ~ /gm(chattogroup) ~ /grouplist(listgroup) ~ /groups(listallgroups)\n\n");*/
 				strcat( BigString15, "{00C0FF}House Commands{FFFFFF}\t\t\n\n");
 				strcat( BigString15, "/myhouses ~ /housemenu ~ /enter ~ /exit\n");
 				ShowPlayerDialog(playerid, 9999, DIALOG_STYLE_MSGBOX, "Commands", BigString15, "OK", "");
