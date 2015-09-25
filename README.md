@@ -1,5 +1,10 @@
 Drift Stunting Gamemode for San Andreas Multiplayer
 ---------------------------------------------------
-* i think should release my gamemode because i dont update it again since 2013 *
-* you can edit this gamemode or host your server *
-* this gamemode will update it again for full source if i have a time *
+Credits
+//Include
+- a_samp
+- BlueG
+- Textdraw
+//Description
+This is my gamemode, developing over 2 years and still not complete, 
+This gamemode is private, but i release this gamemode because i leave samp
