@@ -1,4 +1,4 @@
-# Drift Stunting Indonesia GameMode
+# Drift Stunting Indonesia GameMode ![Build](https://travis-ci.org/troke12/dsfreeroam.svg)
 ```sh
 +-+-+-+-+-+-+-+-+-+-+
 |D|S|F|r|e|e|r|o|a|m|
