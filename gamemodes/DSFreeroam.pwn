@@ -1,22 +1,54 @@
 /*
-   ___________________________________________________________________________________Scrited By Krisna__
-  /  ______      _____   ________  _______                                                               \
- | 	|DDDDDD\   /SSSSS/  |FFFFFFF/ |RRRRRRR\  ______  ______  ______    ________    ______   __      __   |
- | 	|D|   \D\ /S/       |F|______ |R|    R/ |EEEEE/ |EEEEE/ |RRRRRR\  /OOOOOOOO\  |aaaaaa| |MM\    /MM|  |
- | 	|D|    \D\S/_____   |FFFFFFF/ |R|___R/  |E|____ |E|__   |R|__/R/ /O/      \O\    __|a| |M|\M\/M/|M|  |
- | 	|D|    /D/SSSSSS|   |F|       |RRRRRR\  |EEEEE/ |EEEEE/ |RRRRRR\ \O\      /O/  /aaaaa| |M| \MM/ |M|  |
- | 	|D|___/D/_____|S|   |F|       |R|   \R\ |E|____ |E|     |R|   \R\ \O\____/O/   \a\_|a| |M|      |M|  |
- | 	|DDDDDD/|SSSSSS/    |F|       |R|    \R\|EEEEE/ |EEEEE/ |R|    \R\ \OOOOOO/    \aaaaa| |M|      |M|  |
- \______________________________________________________________________________________________________/
-_________________________
-Last Updates 27/12/2013* \
-_________________________/
--Remove Player Camera ._. fuck this shit
--Added /co (Car Options) Bisa Milih Open Boonet, Close Boonet, Open Trunk, Close Trunk, Lights, Tune Car
--Tune Car /tune
--Added [MV]_Christmas by Michael@belgium
-=============================================================================================================
+______________________________________________________________________________________________________________________
+                                         _____          ___           ___         ___           ___
+									    /  /::\        /  /\         /  /\       /  /\         /  /\
+									   /  /:/\:\      /  /:/_       /  /:/_     /  /::\       /  /:/_
+									  /  /:/  \:\    /  /:/ /\     /  /:/ /\   /  /:/\:\     /  /:/ /\
+									 /__/:/ \__\:|  /  /:/ /::\   /  /:/ /:/  /  /:/~/:/    /  /:/ /:/_
+									 \  \:\ /  /:/ /__/:/ /:/\:\ /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\
+									  \  \:\  /:/  \  \:\/:/~/:/ \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/
+									   \  \:\/:/    \  \::/ /:/   \  \::/     \  \::/~~~~   \  \::/ /:/
+									    \  \::/      \__\/ /:/     \  \:\      \  \:\        \  \:\/:/
+									     \__\/         /__/:/       \  \:\      \  \:\        \  \::/
+									                   \__\/         \__\/       \__\/         \__\/
+      ___           ___           ___           ___           ___
+     /  /\         /  /\         /  /\         /  /\         /__/\
+    /  /:/_       /  /::\       /  /::\       /  /::\       |  |::\
+   /  /:/ /\     /  /:/\:\     /  /:/\:\     /  /:/\:\      |  |:|:\
+  /  /:/ /:/_   /  /:/~/:/    /  /:/  \:\   /  /:/~/::\   __|__|:|\:\
+ /__/:/ /:/ /\ /__/:/ /:/___ /__/:/ \__\:\ /__/:/ /:/\:\ /__/::::| \:\
+ \  \:\/:/ /:/ \  \:\/:::::/ \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\__\/
+  \  \::/ /:/   \  \::/~~~~   \  \:\  /:/   \  \::/       \  \:\
+   \  \:\/:/     \  \:\        \  \:\/:/     \  \:\        \  \:\
+    \  \::/       \  \:\        \  \::/       \  \:\        \  \:\
+     \__\/         \__\/         \__\/         \__\/         \__\/
+
+
+Copyright [2012] [Troke]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+________________________________________________________________________________________________________________________
+____________________________
+							|
+Last Updates 27/12/2015*    |
+____________________________|
+
+-Added some commands
+-Added License
+
 */
+
 //INCLUDE
 #include <a_samp>
 #include <sscanf2>
@@ -29,9 +61,9 @@ _________________________/
 #define dcmd(%1,%2,%3) if ((strcmp((%3)[1], #%1, true, (%2)) == 0) && ((((%3)[(%2) + 1] == 0) && (dcmd_%1(playerid, "")))||(((%3)[(%2) + 1] == 32) && (dcmd_%1(playerid, (%3)[(%2) + 2]))))) return 1
 
 //HARUS EDIT INI
-#define SERVER_GM_TEXT "DSFreeroam"
-#define FORUM_URL "www.sa-mp.com"
-#define SCRIPT_SAMPVERSION "0.3z-R2-1"//Script Version
+#define SERVER_GM_TEXT "DSFreeroam" //GM TEXT
+#define FORUM_URL "www.sa-mp.com" //Website url
+#define SCRIPT_SAMPVERSION "0.3z-R2-2"//Script Version
 //THIS IS HOMO
 #pragma tabsize 0
 #define l_red 0xFF0000AA
@@ -13819,9 +13851,11 @@ public OnPlayerCommandText(playerid, cmdtext[])
 			{
   				new BigString15[1024];
 				strcat( BigString15, "{00C0FF}Commands{FFFFFF}\t\t\n\n");
+				strcat( BigString15, "________________________________________________________________________________________\n");
 				strcat( BigString15, "/cmds ~ /wepsmenu ~ /carmenu ~ /car ~ /weather ~ /wl ~ /hidetd ~ /showtd ~ /time ~ /afix\n");
 				strcat( BigString15, "/kill ~ /teles ~ /exitp ~ /help ~ /world ~ /w ~ /s(save ~ /r(load ~ /rules ~ /go ~ /toggo\n");
 				strcat( BigString15, "/login ~ /register ~ /pm ~ /stats ~ /count ~ /skinlist ~ /skin (id) ~ /speedo ~ /god ~ /tune\n\n");
+				strcat( BigString15, "/buyhealth ~ /robber ~ /removerobber ~ /buyarmour\n");
 				strcat( BigString15, "{00C0FF}Teleport{FFFFFF}\t\t\n\n\n");
 				strcat( BigString15, "/drift1-53 ~ /driveschool ~ /driftcircle ~ /tuning ~ /lva ~ /lsa ~ /sfa ~ /loco ~ /arch\n" );
 				strcat( BigString15, "/parkour1 ~ /parkour2 ~ /parkour3 ~ /parkour4 ~ /cs2 ~ /cs1 ~ /ss1 ~ /bs2 ~ /bombshop\n\n");
@@ -13830,6 +13864,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 				strcat( BigString15, "/grk(kickmember) ~ /gm(chattogroup) ~ /grouplist(listgroup) ~ /groups(listallgroups)\n\n");*/
 				strcat( BigString15, "{00C0FF}House Commands{FFFFFF}\t\t\n\n");
 				strcat( BigString15, "/myhouses ~ /housemenu ~ /enter ~ /exit\n");
+				strcat( BigString15, "________________________________________________________________________________________\n");
 				ShowPlayerDialog(playerid, 9999, DIALOG_STYLE_MSGBOX, "Commands", BigString15, "OK", "");
 				return 1;
 			}
@@ -13844,10 +13879,12 @@ public OnPlayerCommandText(playerid, cmdtext[])
 
 			if(!strcmp(cmdtext, "/rules", true))
 			{
- 				SendClientMessage(playerid, COLOR_RED, "No Use Cheating, if you get a /BAN Permanen");
- 				SendClientMessage(playerid, COLOR_RED, "No Rusuh in Game, if you get a /JAIL from ADmin");
- 				SendClientMessage(playerid, COLOR_RED, "No Ngemis-Ngemis, if you Get a /KICK from Admin");
-        		SendClientMessage(playerid, COLOR_YELLOW, "~INGAT DISINI RULES TETAP BERLAKU~");
+			    new BigString15[1024];
+ 				strcat( BigString15, "{00C0FF}Rules{FFFFFF}\t\t\n\n");
+ 				strcat( BigString15, "1. Don't Use Cheat\n");
+ 				strcat( BigString15, "2. Don't Spamming\n");
+ 				strcat( BigString15, "3. Don't SARA\n");
+ 				ShowPlayerDialog(playerid, 9999, DIALOG_STYLE_MSGBOX, "Rules", BigString15, "Accept", "");
 				return 1;
 			}
 
@@ -14270,7 +14307,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 			}
 			
 			new string[128];
-			format(string, sizeof(string), "Invalid Command, Check /cmds or /Help.", cmdtext);
+			format(string, sizeof(string), "Invalid Command, Check /cmds or /help.", cmdtext);
             PlayerPlaySound(playerid,1085,0.0,0.0,0.0);
 			return SendClientMessage(playerid, COLOR_RED, string);
 }
