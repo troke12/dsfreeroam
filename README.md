@@ -1,5 +1,36 @@
-Drift Stunting Gamemode for San Andreas Multiplayer
----------------------------------------------------
-* i think should release my gamemode because i dont update it again since 2013 *
-* you can edit this gamemode or host your server *
-* this gamemode will update it again for full source if i have a time *
+# Drift Stunting Indonesia GameMode ![Build](https://travis-ci.org/troke12/dsfreeroam.svg)
+```sh
++-+-+-+-+-+-+-+-+-+-+
+|D|S|F|r|e|e|r|o|a|m|
++-+-+-+-+-+-+-+-+-+-+
+```
+DSI Freeroam based from Stunting Freeroam, edited & revision by troke.
+a lot of features, based idea from other server, also added some unique filterscript.
+## Include
+  - a_samp
+  - sscanf
+  - streamer
+  - foreach
+
+## Plugins
+  - Streamer
+  - Whirlpool
+  - sscanf
+  - audio
+  - socket
+  - irc
+
+## Filterscript
+  - vspawner.pwn (Vehicle Spawner)
+  - skinchanger.pwn (Skins Menu/Changer)
+  - WS.pwn (Weapon Selection)
+  - LuxAdmin.pwn (Admin Filterscript)
+  - DriftCount.pwn (Drift Counter)
+  - Count.pwn (Counter Textdraw)
+  - drifttele.pwn (Drift Teleports Commands)
+  - gl_actions.pwn (Anims filterscript)
+  - PPC_Housing.pwn (House Filterscript)
+  - ls_elevator.pwn (Los Santos Elevator)
+  - speedo.pwn (Speedo Meter Textdraw)
+  - vip.pwn (VIP Filterscript)
+  - christmas.pwn (Christmas Filterscript)
